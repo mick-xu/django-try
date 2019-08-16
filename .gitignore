@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.py[co]
+local_settings.py
+env
+__pycache__
+MANIFEST
+dist/
+upload
+migrations
+.vscode
